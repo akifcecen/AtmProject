@@ -13,7 +13,7 @@ public class AtmMain {
     public static void main(String[] args) {
 
         //Müşteri tanımlamaları yapıldı
-        //Kurumsal Müşteri için müşteri türü:1 Bireysel için: 0
+        //Kurumsal Müşteri için müşteri türü:Kurumsal Bireysel için: Bireysel
         BireyselMusteri musteri1 = new BireyselMusteri();
         BireyselMusteri musteri2 = new BireyselMusteri();
         KurumsalMusteri musteri3 = new KurumsalMusteri();
